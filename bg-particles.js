@@ -16,7 +16,7 @@ particlesJS("bg", {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#ff4500"
+          "color": "#e6e6fa"
         },
         "polygon": {
           "nb_sides": 0
@@ -28,7 +28,7 @@ particlesJS("bg", {
         }
       },
       "opacity": {
-        "value": .7,
+        "value": 1,
         "random": true,
         "anim": {
           "enable": true,
@@ -52,7 +52,7 @@ particlesJS("bg", {
         "distance": 90,
         "color": "#ff00ff",
         "opacity": .6,
-        "width": .5
+        "width": .6
       },
       "move": {
         "enable": true,

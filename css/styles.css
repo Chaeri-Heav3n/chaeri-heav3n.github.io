@@ -21,7 +21,8 @@
 	padding: 0%;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	font-family: "Raleway Dots";
+	font-family: "Raleway";
+	font-weight: 300;
 	color: #fff;
 }
 
@@ -74,7 +75,7 @@ body {
 
 .navbar .navbar-container .site-title a {
 	text-decoration: none;
-	color: greenyellow;
+	color: #fff;
 }
 
 .navbar .navbar-container .site-type {
@@ -106,7 +107,7 @@ body {
 
 h2 {
 	font-family: 'Bigilla';
-	font-size: 9rem;
+	font-size: 7rem;
 	text-align: center;
 }
 
@@ -121,8 +122,8 @@ h3 {
 		font-size: 5.4rem;
 	}
 
-	h2 {
-		font-size: 8rem;
+	h3 {
+		font-size: 4rem;
 	}
 }
 
@@ -191,6 +192,10 @@ h3 {
 	margin: 40px 0;
 	font-size: 30px;
 	color: #fff;
+}
+
+.about .about-container a {
+	color: greenyellow;
 }
 
 @media (max-width: 900px) {
@@ -340,6 +345,10 @@ h3 {
 	text-align: center;
 }
 
+.click-github a {
+	text-decoration: underline;
+}
+
 .link-none {
 	text-decoration: none;
 }
@@ -380,12 +389,6 @@ h3 {
 
 
 /* projects */
-
-.construction {
-	font-family: 'Times New Roman', Times, serif;
-	font-size: 16px;
-	color: #CD1424;
-}
 
 .menu__item {
 	position: relative;
@@ -535,7 +538,7 @@ h3 {
 	font-family: "Dawning of a New Day";
 	font-size: 75px;
 	line-height: 100px;
-	color: greenyellow;
+	color: #fff;
 }
 
 @media (max-width: 900px) {

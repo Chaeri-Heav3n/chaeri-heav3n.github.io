@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: rgba(173, 173, 245, 0.643);
+    background-color: rgb(203, 203, 248);
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -24,7 +24,7 @@ header {
     height: 40px;
     border-radius: 50px;
     border: 1.3px solid #0f0f0f;
-    background-color: rgba(172, 255, 47, 0.548);
+    background-color: rgba(173, 255, 50, 0.723);
     opacity: 80%;
 }
 
@@ -56,15 +56,13 @@ header {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 20px;
     font-weight: bold;
-    color: #0f0f0f;
-    background-color: lightgoldenrodyellow;
-    border-radius: 10%;
+    color: black;
+    background-color: linen;
     padding: 2px;
     margin-bottom: 30px;
     font-family: 'Silkscreen';
-    opacity: 85%;
 }
 
 .website {
@@ -82,7 +80,7 @@ a {
 
 .tile {
     width: 100%;
-    background-color: rgba(172, 255, 47, 0.548);
+    background-color: rgba(173, 255, 50, 0.723);
     opacity: 92%;
     margin: 7px;
     border-radius: 17px;
@@ -113,17 +111,16 @@ a {
 
 
 .image-container {
-    height: 96px;
-    width: 96px;
-    border-radius: 48px;
+    height: 140px;
+    width: 140px;
+    border-radius: 60%;
     border: 1px solid #0f0f0f;
-    opacity: 95%;
     overflow: hidden;
     z-index: 1;
 }
 
 .image-container img {
-    height: 103%;
+    height: 100%;
 }
 
 .icon {
