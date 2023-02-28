@@ -121,6 +121,14 @@ h3 {
 	.header .header-container h1 {
 		font-size: 5.4rem;
 	}
+	
+	h2 {
+		font-size: 4rem;
+	}
+
+	.header .header-container h1 {
+		font-size: 4rem;
+	}
 
 	h3 {
 		font-size: 4rem;
