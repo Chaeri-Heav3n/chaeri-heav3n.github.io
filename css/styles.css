@@ -121,16 +121,16 @@ h3 {
 	.header .header-container h1 {
 		font-size: 5.4rem;
 	}
-	
+
+	h3 {
+		font-size: 4rem;
+	}
+
 	h2 {
 		font-size: 4rem;
 	}
 
 	.header .header-container h1 {
-		font-size: 4rem;
-	}
-
-	h3 {
 		font-size: 4rem;
 	}
 }
@@ -540,9 +540,9 @@ h3 {
 	}
 }
 
-/* clients */
+/* status */
 
-.clients .clients-container p {
+.status .status-container p {
 	font-family: "Dawning of a New Day";
 	font-size: 75px;
 	line-height: 100px;
@@ -550,7 +550,7 @@ h3 {
 }
 
 @media (max-width: 900px) {
-	.clients .clients-container p {
+	.status .status-container p {
 		font-size: 36px;
 		line-height: 50px;
 		text-align: justify;
