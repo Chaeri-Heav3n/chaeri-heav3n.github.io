@@ -33,7 +33,7 @@ particlesJS("bg", {
         "anim": {
           "enable": true,
           "speed": .1,
-          "opacity_min": 0.1,
+          "opacity_min": 0.3,
           "sync": true
         }
       },
@@ -51,7 +51,7 @@ particlesJS("bg", {
         "enable": true,
         "distance": 90,
         "color": "#ff00ff",
-        "opacity": .6,
+        "opacity": .7,
         "width": .6
       },
       "move": {
